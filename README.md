@@ -1,9 +1,7 @@
-<h2 align="left">Azul there! 👋 I'm ANOU Oussama — Full Stack Developer & Cloud Enthusiast 💻</h2>
-
-###
+<h2 align="center">Azul there! 👋 I'm ANOU Oussama — Full Stack Developer & Cloud Enthusiast 💻</h2>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Usmaexe/count.svg?"  />
+  <img src="https://komarev.com/ghpvc/?username=Usmaexe&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </div>
 
 ###
@@ -11,54 +9,80 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="30" alt="vercel logo"  />
+  <img height="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<h3 align="center">🚀 My Projects</h3>
+## 🧑‍💻 About Me
+
+💡 I enjoy learning about new technologies and creating software solutions and quick hacks.
+
+🎓 I am currently pursuing a degree in software engineering at Morocco's National Institute of Posts and Telecommunications in Rabat.
+
+🚀 I'm on track to expand my knowledge of software design patterns, systems design, and compilers architecture.
+
+💻 In my spare time, I am very interested in competitive programming and problem solving.
+
+###
+
+<br clear="both">
+
+## 🛠️ Tech Stack
+
+**Languages:**
+`JavaScript` `TypeScript` `Python` `Java` `C++` `HTML` `CSS` `Go`
+
+**Frameworks & Libraries:**
+`React` `Next.js` `Node.js` `Express` `Django` `Vue.js`
+
+**Databases:**
+`MongoDB` `MySQL` `PostgreSQL` `Redis`
+
+**DevOps & Cloud:**
+`Docker` `Kubernetes` `AWS` `Azure` `Vercel` `Git` `GitHub Actions`
+
+**Tools:**
+`VS Code` `Postman` `Figma` `Jira`
+
+###
+
+<br clear="both">
 
 <div align="center">
-  <p><b>npm run build… & deploy to the cloud ☁️</b></p>
+  <h2>⚡ GitHub Analytics</h2>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">📊 My GitHub Statistics</h3>
+        <img src="https://github-readme-stats.vercel.app/api?username=Usmaexe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%"/>
+      </td>
+      <td width="50%">
+        <h3 align="center">💻 My Programming Languages</h3>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usmaexe&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=400" alt="Top Languages" width="100%"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ###
 
 <br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Usmaexe&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+###
+
+<br clear="both">
+
+## 📫 Let's Connect
 
 <div align="center">
   <a href="mailto:oussamanou30@gmail.com" target="_blank">
@@ -71,26 +95,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img height="204" src="https://i.gifer.com/9R0J.gif"  />
+  <p><b>🚀 npm run build… & deploy to the cloud ☁️</b></p>
 </div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Usmaexe/Usmaexe/output/snake.svg" alt="Snake animation" />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Usmaexe&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-###
