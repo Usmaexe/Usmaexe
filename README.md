@@ -81,8 +81,16 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Usmaexe/Usmaexe/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Usmaexe/Usmaexe/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
-Engineer of adaptive systems and emerging frameworks, shaping production-ready environments with dynamic stacks and evolving paradigms. Passionate about scalable architecture, cloud-native practices, and bridging modern engineering with future-facing design.
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Usmaexe&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
+
+###
