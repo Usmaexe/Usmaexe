@@ -17,14 +17,8 @@
 <br clear="both">
 
 ## 🧑‍💻 About Me
-
-💡 I enjoy learning about new technologies and creating software solutions and quick hacks.
-
-🎓 I am currently pursuing a degree in software engineering at Morocco's National Institute of Posts and Telecommunications in Rabat.
-
-🚀 I'm on track to expand my knowledge of software design patterns, systems design, and compilers architecture.
-
-💻 In my spare time, I am very interested in competitive programming and problem solving.
+Engineer of adaptive systems and emerging frameworks, shaping production-ready environments through dynamic stacks and evolving paradigms.
+Passionate about continuous orchestration, scalable practices, and the intersection of modern engineering and future-facing design.
 
 ###
 
