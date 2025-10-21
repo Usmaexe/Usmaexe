@@ -30,7 +30,7 @@ Passionate about continuous orchestration, scalable practices, and the intersect
 
 **Languages:**
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css,go&perline=8" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css,sql,go&perline=8" />
 
 **Frameworks & Libraries:**
 
@@ -42,11 +42,11 @@ Passionate about continuous orchestration, scalable practices, and the intersect
 
 **DevOps & Cloud:**
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,vercel,git,github&perline=7" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,vercel,git,github,gitlab&perline=7" />
 
 **Tools:**
 
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma&perline=3" />
+<img src="https://skillicons.dev/icons?i=latex,postman,figma&perline=3" />
 
 </div>
 
