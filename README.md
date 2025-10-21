@@ -34,7 +34,7 @@ Passionate about continuous orchestration, scalable practices, and the intersect
 
 **Frameworks & Libraries:**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,vue&perline=6" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,vue,fastapi&perline=6" />
 
 **Databases:**
 
