@@ -30,7 +30,7 @@ Passionate about continuous orchestration, scalable practices, and the intersect
 
 **Languages:**
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css,sql,go&perline=8" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css,mysql,go&perline=8" />
 
 **Frameworks & Libraries:**
 
