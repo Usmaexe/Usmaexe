@@ -1,5 +1,4 @@
 <h2 align="center">Azul there! 👋 I'm ANOU Oussama — Full Stack Developer & Cloud Enthusiast 💻</h2>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Usmaexe&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </div>
@@ -17,6 +16,7 @@
 <br clear="both">
 
 ## 🧑‍💻 About Me
+
 Engineer of adaptive systems and emerging frameworks, shaping production-ready environments through dynamic stacks and evolving paradigms.
 Passionate about continuous orchestration, scalable practices, and the intersection of modern engineering and future-facing design.
 
@@ -26,20 +26,29 @@ Passionate about continuous orchestration, scalable practices, and the intersect
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 **Languages:**
-`JavaScript` `TypeScript` `Python` `Java` `C++` `HTML` `CSS` `Go`
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css,go&perline=8" />
 
 **Frameworks & Libraries:**
-`React` `Next.js` `Node.js` `Express` `Django` `Vue.js`
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,vue&perline=6" />
 
 **Databases:**
-`MongoDB` `MySQL` `PostgreSQL` `Redis`
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis&perline=4" />
 
 **DevOps & Cloud:**
-`Docker` `Kubernetes` `AWS` `Azure` `Vercel` `Git` `GitHub Actions`
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,vercel,git,github&perline=7" />
 
 **Tools:**
-`VS Code` `Postman` `Figma` `Jira`
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma&perline=3" />
+
+</div>
 
 ###
 
