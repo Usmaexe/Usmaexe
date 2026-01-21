@@ -1,4 +1,4 @@
-<h2 align="center">Azul there! 👋 I'm ANOU Oussama — Full Stack Developer & Cloud Enthusiast 💻</h2>
+<h2 align="center">Azul there! I'm ANOU Oussama a.k.a the executable </h2>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Usmaexe&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </div>
@@ -17,8 +17,8 @@
 
 ## 🧑‍💻 About Me
 
-Engineer of adaptive systems and emerging frameworks, shaping production-ready environments through dynamic stacks and evolving paradigms.
-Passionate about continuous orchestration, scalable practices, and the intersection of modern engineering and future-facing design.
+Engineering Student of adaptive systems and emerging frameworks, shaping production-ready environments through dynamic stacks and evolving paradigms.
+Passionate about Solving day-by-day problems using caffein and some tools!
 
 ###
 
